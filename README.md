@@ -743,6 +743,7 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [expletive](https://github.com/xavier/expletive) - Profanity filter library for Elixir.
 * [expr](https://github.com/Rob-bie/Expr) - An Elixir library for parsing and evaluating mathematical expressions.
 * [faust](https://github.com/jquadrin/faust) - Markov Text Generator for Elixir.
+* [huffman](https://github.com/SenecaSystems/huffman) - Huffman encoding and decoding.
 * [hashids](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
 * [hexate](https://github.com/rjsamson/hexate) - Simple module for Hex encoding / decoding in Elixir.
 * [inflex](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
